@@ -1,5 +1,5 @@
 [0]
-CategoricalArrays = "0"
+CategoricalArrays = "0.0.0 - 0.8"
 Combinatorics = "0-1"
 StatsBase = "0.32-0.33"
 Tables = "1"
